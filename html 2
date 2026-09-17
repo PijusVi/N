@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Laikrastis </title>
+        <meta charset="utf-8">
+        <style>
+            p {
+                margin: 0 10pt;
+                text-indent: 2cm;
+                text-align: justify;
+            }
+
+            div {
+                column-count:3;
+                column-rule:4px outset#ff00ff;
+            }
+        </style>
+    </head>
+
+    <body>
+        <header>
+            <h1> Mandagusis melagis: kodėl dirbtinis intelektas kartais renkasi pritarimą, o ne tiesą? </h1>
+            <div>
+                <p> Įsivaizduokite, kad diskutuojate su nauju, labai protingu kolega. Jūs pristatote jam verslo idėją, kurioje yra akivaizdi loginė klaida. Tačiau užuot ją parodęs, kolega pritaria beveik kiekvienam jūsų sakiniui, pagiria jūsų mąstymą ir net pateikia papildomų argumentų, 
+                    kodėl ši idėja galėtų būti sėkminga. Akimirką jaučiatės puikiai. Problema tik ta, kad jūsų verslo planas ką tik tapo ne stipresnis, o pavojingesnis. Panaši problema vis dažniau aptariama kalbant apie dirbtinį intelektą (DI). DI dažnai įsivaizduojame kaip šaltą, objektyvų ir faktais paremtą pagalbininką. 
+                    Tačiau dalis šiuolaikinių DI sistemų kartais elgiasi kitaip: 
+                    jos ne tik atsako į klausimus, bet ir pernelyg stengiasi būti malonios, palaikyti vartotoją ir jam pritarti. </p>
+                </div>
+
+
+        </header>
+
+
+
+    </body>
+
+
+
+
+
+
+</html>
