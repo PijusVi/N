@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <title> Formatavimas </title>
+    <meta charset="utf-8">
+
+</head>
+<body>
+    <header>
+        <h1> Teksto formatavimas</h1>
+
+        <h2> Loginių formatų pavyzdžiai</h2>
+
+        <div> 
+            <p> Kaip sakė Seneka, <i> nežinojimas -- menka paguoda ištiktam bėdos. </i>
+            </p>
+
+            <p2> 
+                Asmens kodas: <br>
+                <code> 34512233445 </code> <br>
+            </p2>
+
+            <p3> <br> Žiniatinklis <i> yra </i> saityno <i> pavyzdys. </i> 
+            </p3>
+
+            <p4>
+                <p> <b> <del> Vebas </del> <ins> saitynas </ins> -- </b> hipertekstinės informacijos visuotinis tinklas, svarbiausias interneto komponentas. </p>
+            </p4>
+
+        </div>
+
+        <h2> Fizinių formatų pavyzdžiai</h2>
+        <div> 
+            <p> Pitagoro teorema: <br>
+            a&and;2 + b&and;2 = c&and;2 </p>
+
+            <p2> Cheminės (<small> jungimosi </small>) reakcijos lygtis: </p>
+
+
+        </div>
+    </header>
+</body>
+
+
+</html>
