@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <title> Sarašai </title>
+    <meta charset="utf-8">
+
+</head>
+<body>
+    <div id="wrapper">
+        <header> <h1>Sąrašai</h1></header>
+        <section>
+            <div class='list'>
+                <dl>
+                    <dt>Saitynas</dt>
+                    <dd>Hipertekstinės informacijos visuotinis 
+                        tinklas, svarbiausias interneto komponentas.
+                    </dd>
+                    <dt>Sąrašas</dt>
+                    <dd>Objektų išvardijimas.
+                        Sąraše esantys objektai vadinami sąrašo
+                        elementais. Dažniausiai jie numeruojami 
+                        arba kitaip suženklinami.
+                    </dd>
+                    <dt> Stilius</dt>
+                    <dd>Išraiškos vienovė, būdinga dokumentams,
+                        programoms, sąsajai ar jų dalims siekiant
+                        išlaikyti jų pateikimo formos vienodumą.
+                    </dd>
+                </dl>
+            </div>
+            <div class="list">
+                <ol>
+                    <li>Gepardas</li>
+                    <li>Buldoginis šikšnosparnis</li>
+                </ol>
+            </div>
+        </section>
+        <footer></footer>
+    </div>
+</body>
