@@ -3,7 +3,7 @@
 <head>
     <title> Sarašai </title>
     <meta charset="utf-8">
-
+    <link rel ="stylesheet" type ="text/css" href="sarasiukas.css">
 </head>
 <body>
     <div id="wrapper">
@@ -11,6 +11,7 @@
         <section>
             <div class='list'>
                 <dl>
+                    <h2>Terminų sąrašas</h2>
                     <dt>Saitynas</dt>
                     <dd>Hipertekstinės informacijos visuotinis 
                         tinklas, svarbiausias interneto komponentas.
@@ -30,11 +31,30 @@
             </div>
             <div class="list">
                 <ol>
+                    <h2>Numeruotas sąrašas</h2>
+                    <p>Greičiausi gyvūnai:</p>
                     <li>Gepardas</li>
                     <li>Buldoginis šikšnosparnis</li>
+                    <li>Šakiaragė antilopė</li>
+                    <li>Šoklioji gazelė</li>
+                    <li>Gnu antilopė</li>
                 </ol>
             </div>
+            <div class ="list">
+                <ul>
+                    <h2>Ženklinamasis sąrašas</h2>
+                    <p>Saityno technologijos</p>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>PHP</li>
+                    <li>MySQL</li>
+                    <li>JavaScript</li>
+                </ul>
+            </div>
         </section>
-        <footer></footer>
+        <footer>
+    <p>2026 Pijus Vismantas </p>
+</footer>
     </div>
 </body>
+</html>
