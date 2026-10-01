@@ -1,0 +1,56 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+#wrapper {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    background: teal;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 20px;
+    background: green;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+    background: green;
+    color: white;
+    clear: both;
+}
+
+div.list {
+    width: 30%;
+    height: 400px;
+    margin-left: 1%;
+    margin-bottom: 20px;
+    padding: 10px;
+    background: white;
+    float: left;
+}
+
+
+
+dt {
+    font-weight: 900;
+}
+
+dd {
+    margin-bottom: 10px;
+}
+
+#tree {
+    border: 1px solid white;
+    padding: 1px;
+    float: left;
+    margin-right: 10px;
+}
