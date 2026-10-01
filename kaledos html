@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <title> Kalėdinė svetainė </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type ="text/css" href="k.css">
+    <link rel="icon" type="image/png" href="images/holly.png">
+</head>
+<body>
+    <header>
+        <img src="images/title.png" alt="Kalėdinė svtainė">
+        <hr>
+    </header>
+    <section>
+        <article>
+            <h1>Kalėdų simboliai</h1>
+            <h2>Kalėdų senelis</h2>
+            <img src="images/santa-claus-reindeer.jpg" alt="Kalėdų senelis" id="santa">
+            <p> Kalėdų senelis vilki raudonai baltais drabužiais, skrieja rogėmis, 
+                pakinkytomis 9 elniais. Kalėdų senelis gyvena Šiaurės Ašigalyje, 
+                Laplandijoje. Jis mėgsta pripildyti kojines smulkių dovanėlių ar padėti 
+                dovanų po eglute gruodžio 24 d. naktį. Į namus jis patenka pro kaminą arba 
+                orlaidę...</p>    
+            <hr>
+            <h2>Kalėdinė eglutė</h2>
+            <img src="images/xmas-tree.gif" alt="Kalėdinė eglutė" id="tree">
+            <p>Eglutę Kalėdų šventei pasirinkta dėl to, kad tai visžalis medis, simbolizuojantis 
+                gyvybę ir amžino gyvenimo viltį. Kalėdų eglutės atneša į namus ne tik 
+                kalėdinę nuotaiką, bet ir malonų miško kvapą. Manoma, kad trikampė eglutės
+                forma simbolizuoja Šv. Trejybę &mdash; Dievo Tėvo, Dievo Sūnaus ir
+                Dievo Šv. Dvasios.</p>
+            <hr>
+        </article>
+    </section>
+</body>
+</html>
