@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <title> Index </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type ="text/css" href="i.css">
+</head>
+<body>
+<div id = "page">
+
+    <header>
+        <h1>Puslapio pavadinimas</h1>
+        <div id = "subhead">Puslapio šūkis</div>
+    </header>
+
+    <div id = "menu">
+        <h2>Meniu</h2>
+        <ul>
+            <li><a href="#"></a>Pirmas punktas</li>
+            <li><a href="#"></a>Antras punktas</li>
+            <li><a href="#"></a>Trečias punktas</li>
+        </ul>
+    </div>
+
+    <div id = "content">
+        <h2>Puslapio tekstas</h2>
+        <p>Daug teksto</p>
+    </div>
+
+    <footer>
+        Autorinės teisės ir kt. ribojimai
+    </footer>
+
+</div>
+
+</body>
