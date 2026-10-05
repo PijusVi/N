@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <title> Meniu </title>
+    <meta charset="utf-8">
+    <style>
+
+ul{
+list-style-type: none;
+margin:0;
+padding:0;}
+
+a {
+display:block;
+width:160px;
+padding:4px}
+
+a:link, a:visited {
+font-weight:bold;
+color:#fff;
+background:#98bf21;
+text-align:center;
+text-decoration:none;
+text-transform:uppercase;}
+
+a:hover,a:active {
+background-color:#7A991A;}
+
+li { float: left; }
+
+    </style>
+</head>
+<body>
+    <h1>Meniu</h1>
+     <ul>
+        <li>><a href="#"></a>Pradžia</li> 
+        <li>><a href="#"></a>Apie mus</li>
+        <li>><a href="#"></a>Nuotraukos</li>
+        <li>><a href="#"></a>Kontaktai</li>
+        
+    </ul> 
+    
+    <div class="Pradzia">
+        <h2>Pradzia</h2>
+    </div>
+    <div class="Apie mus">
+        <h2>Apie mus</h2>
+        <p> 
+            ~
+            ~
+        </p>
+    </div>
+    <div class="Nuotraukos">
+        <h2>Nuotraukos</h2>
+    </div>
+    <div class ="Kontaktai">
+        <h2>Kontaktai</h2>
+    </div>
+</body>
