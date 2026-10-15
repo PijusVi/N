@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="lt">
 <head>
     <title> Meniu </title>
@@ -31,29 +31,12 @@ li { float: left; }
     </style>
 </head>
 <body>
-    <h1>Meniu</h1>
-     <ul>
-        <li>><a href="#"></a>Pradžia</li> 
-        <li>><a href="#"></a>Apie mus</li>
-        <li>><a href="#"></a>Nuotraukos</li>
-        <li>><a href="#"></a>Kontaktai</li>
+    <ul>
+        <li><a href="#">Pradžia</a></li> 
+        <li><a href="#">Apie mus</a></li>
+        <li><a href="#">Nuotraukos</a></li>
+        <li><a href="#">Kontaktai</a></li>
         
     </ul> 
     
-    <div class="Pradzia">
-        <h2>Pradzia</h2>
-    </div>
-    <div class="Apie mus">
-        <h2>Apie mus</h2>
-        <p> 
-            ~
-            ~
-        </p>
-    </div>
-    <div class="Nuotraukos">
-        <h2>Nuotraukos</h2>
-    </div>
-    <div class ="Kontaktai">
-        <h2>Kontaktai</h2>
-    </div>
 </body>
