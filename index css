@@ -7,7 +7,7 @@ body {background:#FC6;}
 #page {
     background: #F86;
     margin: 0 auto;
-    width: 600px;
+    width: 1500px;
 }
 
 header, footer {
@@ -17,7 +17,7 @@ header, footer {
 
 header {background:#FC6;}
 
-header h1 {padding: 10px;}
+header h1 {padding: 20px;}
 
 #subhead {
     border-bottom: 1px solid black;
@@ -29,7 +29,7 @@ header h1 {padding: 10px;}
 footer {
     background: #FFF166;
     border: 1px solid black;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 #menu{
