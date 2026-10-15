@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="lt">
+    <head>
+        <title>Triju skilciu puslapis</title>
+        <meta charset='utf-8'>
+        <link rel ="stylesheet" type ="text/css" href="tsp.css">
+
+    </head>
+    <body>
+    <div id="page">
+
+        <header>
+            <h1>Puslapio pavadinimas</h1>
+            <div id="subhead">Puslapio sukis</div>
+        </header>
+
+        <div id="menu">
+            <h2>Meniu</h2>
+            <ul>
+                <li>Pirmas punktas</li>
+                <li>Antras punktas</li>
+                <li>Trecias punktas</li>
+            </ul>
+        </div>
+
+        <div id="content">
+            <h2>Puslapio tekstas</h2>
+            <p> Daug teksto </p>
+        </div>
+
+        <div id="rightside">Kokia nors reklama</div>
+
+        <footer>
+            Autorines teises ir kt. ribojimai
+        </footer>
+    </div>
+    </body>    
